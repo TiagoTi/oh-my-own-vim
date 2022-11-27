@@ -1,0 +1,31 @@
+*oh-my-own-vim.txt* Minhas documentações para eu mesmo
+*oh-my-own-vim*
+
+Conteudo												*conteudo*
+1. Objetivo.............................................|objetivos|
+2. Referencias..........................................|ti2-referencias|
+3. Todo.................................................|todo.txt|
+
+==============================================================================
+Objetivo                                                        *objetivos*
+Este plugin serve para manter uma memória pessoal de como criar meu próprio
+plugin para o vim, além de ser o porta voz de configurações que quero manter
+entre os meus vários ambientes.
+
+==============================================================================
+Referencias                                                  *ti2-referencias*
+
+Esse projeto nasce inicialmente copiando um outro plugin não vercionado que
+criei chamado ti2.
+
+==============================================================================
+Pacotes Desenvolvimento                                          *DevPackage*
+
+sudo apt install build-essential default-jdk libssl-dev exuberant-ctags
+ncurses-term silversearcher-ag fontconfig imagemagick libmagickwand-dev
+software-properties-common git vim-gtk3 curl
+
+|conteudo|
+
+------------------------------------------------------------------------------
+ vim:tw=78:isk=!-~,^*,^\|,^\":ts=8:noet:ft=help:norl:
