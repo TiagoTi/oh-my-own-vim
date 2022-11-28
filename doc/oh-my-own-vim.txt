@@ -18,6 +18,8 @@ Referencias                                                  *ti2-referencias*
 Esse projeto nasce inicialmente copiando um outro plugin não vercionado que
 criei chamado ti2.
 
+- [How to Write a Vim Plugin by Nathaniel Stickman](https://www.linode.com/docs/guides/writing-a-vim-plugin/)
+
 ==============================================================================
 Pacotes Desenvolvimento                                          *DevPackage*
 
